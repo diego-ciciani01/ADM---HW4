@@ -1,7 +1,7 @@
 # ADM---HW4: Recommendation systems and clustering everywhere
 This Repository is the submission of Group 18 for the [ADM-HW4](https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_4) of Data Science 2023/2024, Sapienza - University of Rome. 
 
-The main code provides a recommendation system and clustering based on behavioral user data to understand audiance patterns on Netflix UK.
+The main code provides a recommendation system and clustering based on behavioral user data to understand audiance patterns on Netflix UK, in detail we worked on a dataset rapresentative of clicks made by users.
 
 Multiple libraries like Pandas, SciKit-Learn, Yellowbrick were used.<br>
 
