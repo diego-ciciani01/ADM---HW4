@@ -3,7 +3,7 @@ This Repository is the submission of Group 18 for the [ADM-HW4](https://github.c
 
 The main code provides a recommendation system and clustering based on behavioral user data to understand audiance patterns on Netflix.
 
-Multiple libraries were used like Pandas, SciKit-Learn, Yellowbrick.<br>
+Multiple libraries like Pandas, SciKit-Learn, Yellowbrick were used.<br>
 
 
 
