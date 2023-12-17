@@ -16,6 +16,6 @@ Multiple libraries were used like Pandas, SciKit-Learn, Yellowbrick.<br>
 ## Authors 
 
 [**@Simay Caliskan**](https://github.com/simaycaliskan). Email:  simaycaliskan13@gmail.com <br>
-[**@Diego Ciciani**](https://github.com/diego-ciciani01). Email: diego.ciciani@gmail.com<br>
-[**@Riccardo Corrente**](https://github.com/RiccardoCorr). Email:  <br>
-[**@Gennaro De Cicco**](https://github.com/gennarodecicco). Email: gennarodecicco3@gmail.com
+[**@Diego Ciciani**](https://github.com/diego-ciciani01). Email:  diego.ciciani@gmail.com<br>
+[**@Riccardo Corrente**](https://github.com/RiccardoCorr). Email:  corrente.1964746@studenti.uniroma1.it <br>
+[**@Gennaro De Cicco**](https://github.com/gennarodecicco). Email:  gennarodecicco3@gmail.com
