@@ -10,7 +10,7 @@ Multiple libraries like Pandas, SciKit-Learn, Yellowbrick were used.<br>
 ## Project Structure
 
 - `main.ipynb`: This Jupyter notebook contains all the answers to the research questions (RQs), the Command Line Question and the Algorithmic Question. <br>
-- `commandline.sh`: Shell file with the codes for the Command Line Question.
+- `commandline.sh`: Shell file with the codes for the Command Line Question, we used awk command to solve the command line questions.
 - `images`: A folder containing `commandline_output.png`, showcasing the output of `commandline.sh`.
 
 ## Authors 
